@@ -6,8 +6,6 @@ categories: debian
 comments: true
 ---
 
-# RAID Configuration
-
 ### Instalasi
 ```
 # apt-get install mdadm
