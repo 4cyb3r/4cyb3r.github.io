@@ -1,19 +1,19 @@
 
 # SEO settings
-title: "k1m0ch1"
+title: "4cyb3r"
 title2: "Blog" # default: ""
 description: "free thoughtfull from my mind"
 keywords: ""
-url: http://k1m0ch1.github.io/ # site url
+url: http://4cyb3r.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 paginate: 10
 paginate_path: "/page:num/"
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/k1m0ch1/k1m0ch1.github.io
-disqus_shortname: "k1m0ch1"
-twitter_username: "yahya_kimochi"
+repo: http://github.com/4cyb3r/4cyb3r.github.io
+disqus_shortname: "4cyb3r"
+twitter_username: ""
 comments: true 
 
 # Build settings
@@ -31,21 +31,21 @@ sass:
 
 # Author settings
 author:
-  name     : "Yahya F. Al Fatih"
-  job      : "R&D Security Engineer"
+  name     : "Rakha F Maulana"
+  job      : "IT Network System Administration"
   bio      : "nothing really necessary here, just a bunch of /tmp "
   thumb    : /images/author.jpg
-  email    : yahya.kimochi@gmail.com
+  email    : 4cyb3r@gmail.com
   url      :  
-  github   : http://github.com/k1m0ch1
-  twitter  : http://twitter.com/yahya_kimochi
-  facebook : https://www.facebook.com/yahya.kimochi
+  github   : http://github.com/4cyb3r
+  twitter  : 
+  facebook : 
   linkedin :  
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@yahya_kimochi"
+twitter_site: ""
 
 gems:
   - bourbon
