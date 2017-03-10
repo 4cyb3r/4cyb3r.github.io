@@ -3,7 +3,7 @@ layout: post
 title:  "RAID Configuration - Debian"
 date:   2017-03-09 00:00:00 +0700
 categories: debian
-comments: true
+comments: false
 ---
 
 ### Instalasi
